@@ -55,3 +55,11 @@
 * Hadoop Ecosystem
 * Parallel computing
 * Introduction to Cloud Computing
+
+
+<script src="https://utteranc.es/client.js"
+        repo="ryuni-dev/data-engineering-for-everybody"
+        issue-term="pathname"
+        crossorigin="anonymous"
+        async>
+</script>
