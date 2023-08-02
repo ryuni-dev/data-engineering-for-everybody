@@ -119,6 +119,7 @@ DE4E는 데이터 분석가, 데이터 과학자, 데이터 엔지니어, 머신
 <script src="https://utteranc.es/client.js"
         repo="ryuni-dev/data-engineering-for-everybody"
         issue-term="pathname"
+        theme="preferred-color-scheme"
         crossorigin="anonymous"
         async>
 </script>
